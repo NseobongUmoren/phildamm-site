@@ -156,6 +156,14 @@ nav a:hover {
     display: none;
   }
 
+  header.scrolled nav a {
+    color: white;
+  }
+
+  header.scrolled nav a.active {
+    border-bottom: 2px solid white;
+  }
+
   nav ul {
     flex-direction: column;
     position: absolute;
@@ -164,6 +172,8 @@ nav a:hover {
     background-color: var(--primary-color);
     width: 100%;
     display: none;
+    padding: 1rem;
+    z-index: 1000;
   }
 
   nav ul.show {
@@ -295,13 +305,13 @@ nav a:hover {
 .btn-primary {
   border: 2px solid transparent;
   background-color: var(--secondary-color);
-  color: #1a1a1a;
+  color: var(--text-color);
 }
 
 .btn-primary:hover {
   border: 2px solid var(--secondary-color);
-  color: var(--secondary-color);
-  background: transparent;
+  color: var(--text-color);
+  background: rgb(176, 151, 51);
 }
 
 .btn-outline {
