@@ -11,7 +11,7 @@ include "./scripts/head.php";
       <p>Trusted by top oil & gas operators since 2013</p>
       <div class="hero-buttons">
         <a href="#services" class="btn btn-primary"><i data-lucide="briefcase" class="me-2"></i>Explore Services</a>
-        <a href="#contact" class="btn btn-outline"><i data-lucide="file-text" class="me-2"></i>Request a Quote</a>
+        <a href="mailto:info@phildammsolutions.com" class="btn btn-outline"><i data-lucide="file-text" class="me-2"></i>Request a Quote</a>
       </div>
     </div>
   </div>
@@ -63,7 +63,7 @@ include "./scripts/head.php";
     <div class="container">
       <div class="text-center mb-5">
         <h2 class="section-title">Our Core Services</h2>
-        <p class="section-subtitle">Delivering excellence across training, safety equipment, and logistics</p>
+        <p class="section-subtitle">Our services are designed to deliver excellence and operational efficiency.</p>
       </div>
 
       <div class="row g-4">
@@ -77,7 +77,8 @@ include "./scripts/head.php";
             <div class="card-body text-center">
               <h5 class="text-primary"><i data-lucide="graduation-cap" class="lucide me-2"></i>Training & Consultancy
               </h5>
-              <p>Certified training in drilling, lifting, HSE operations, and industry best practices.</p>
+              <!-- <p>Certified training in drilling, lifting, HSE operations, and industry best practices.</p> -->
+              <p class="service-desc">We deliver certified and competency-based training programs in drilling, lifting operations, safety management, and workplace compliance. Our seasoned instructors, who are industry veterans, also support manpower development initiatives tailored to client needs.</p>
             </div>
           </div>
         </div>
@@ -93,7 +94,8 @@ include "./scripts/head.php";
             <div class="card-body text-center">
               <h5 class="text-primary"><i data-lucide="shield-check" class="lucide me-2"></i>Safety Equipment Supply
               </h5>
-              <p>Supply of top-grade PPE, fire safety gear, and protective equipment for work sites.</p>
+              <!-- <p>Supply of top-grade PPE, fire safety gear, and protective equipment for work sites.</p> -->
+              <p>We supply high-quality personal protective equipment (PPE), firefighting gear, fall arrest systems, and related safety tools. All products are sourced from reputable manufacturers and comply with international safety standards.</p>
             </div>
           </div>
         </div>
@@ -102,22 +104,50 @@ include "./scripts/head.php";
         <div class="col-md-6 col-lg-4">
           <div class="card h-100 shadow-sm border-0">
             <div class="services-img">
-              <img src="/images/equipment-inpection.jpg"
+              <img src="/images/equipment-inspection.jpg"
                 class="card-img-top w-100 h-100 object-position-top-center object-fit-cover"
                 alt="Equipment Inspection Services">
             </div>
             <div class="card-body text-center">
-              <h5 class="text-primary"><i data-lucide="search-check" class="lucide me-2"></i>Equipment Inspection
+              <h5 class="text-primary"><i data-lucide="search-check" class="lucide me-2"></i>Equipment Inspection & Certification
                 Services</h5>
-              <p>Comprehensive inspection and certification of industrial equipment to ensure safety, compliance, and
-                operational efficiency.</p>
+              <!-- <p>Comprehensive inspection and certification of industrial equipment to ensure safety, compliance, and operational efficiency.</p> -->
+              <p>Our team conducts detailed inspections and certifications for a wide range of equipment, ensuring compliance with industry regulations. We specialize in lifting equipment, safety gear, and technical system evaluations to maintain operational safety and efficiency.</p>
             </div>
           </div>
         </div>
 
-        <div class="d-none d-lg-block col-lg-2"></div>
+        <!-- <div class="d-none d-lg-block col-lg-2"></div> -->
 
         <!-- Service Card 4 -->
+        <div class="col-md-6 col-lg-4">
+          <div class="card h-100 shadow-sm border-0">
+            <div class="services-img">
+              <img src="/images/technical-services.jpg" class="card-img-top w-100 h-100 object-fit-cover"
+                alt="Technical Support & Maintenance Services">
+            </div>
+            <div class="card-body text-center">
+              <h5 class="text-primary"><i data-lucide="car" class="lucide me-2"></i>Technical Support & Maintenance Services</h5>
+              <p>We offer expert technical support for power and gas plant operations, including maintenance and upgrade projects. Our services ensure sustained performance, reduced downtime, and cost-effective plant lifecycle management.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Service Card 5 -->
+        <div class="col-md-6 col-lg-4">
+          <div class="card h-100 shadow-sm border-0">
+            <div class="services-img">
+              <img src="/images/labour-management.jpg" class="card-img-top w-100 h-100 object-fit-cover"
+                alt="Labour Management Services">
+            </div>
+            <div class="card-body text-center">
+              <h5 class="text-primary"><i data-lucide="car" class="lucide me-2"></i>Labour Management Services</h5>
+              <p>Phildamm provides comprehensive labour management solutions, including workforce planning, deployment, and on-site supervision. We help clients build productive teams while ensuring compliance with local labour laws and safety protocols.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Service Card 6 -->
         <div class="col-md-6 col-lg-4">
           <div class="card h-100 shadow-sm border-0">
             <div class="services-img">
@@ -126,14 +156,15 @@ include "./scripts/head.php";
             </div>
             <div class="card-body text-center">
               <h5 class="text-primary"><i data-lucide="car" class="lucide me-2"></i>Car Leasing Services</h5>
-              <p>Reliable vehicles for corporate and industrial use — short & long term.</p>
+              <!-- <p>Reliable vehicles for corporate and industrial use — short & long term.</p> -->
+              <p>We offer flexible short- and long-term vehicle leasing solutions for individuals and businesses. Our fleet is well-maintained and includes a variety of vehicle types to meet diverse transportation needs.</p>
             </div>
           </div>
         </div>
 
-        <div class="d-none d-md-block col-md-3 d-lg-none"></div>
+        <div class="d-none d-md-block col-md-3 col-lg-4"></div>
 
-        <!-- Service Card 5 -->
+        <!-- Service Card 7 -->
         <div class="col-md-6 col-lg-4">
           <div class="card h-100 shadow-sm border-0">
             <div class="services-img">
@@ -142,12 +173,13 @@ include "./scripts/head.php";
             </div>
             <div class="card-body text-center">
               <h5 class="text-primary"><i data-lucide="ship" class="lucide me-2"></i>Vessel Chartering</h5>
-              <p>Marine logistics support via crew boats, supply vessels, and offshore transport.</p>
+              <!-- <p>Marine logistics support via crew boats, supply vessels, and offshore transport.</p> -->
+              <p>Our offshore vessel chartering services support oil & gas field operations, cargo movement, and project logistics. We ensure reliability, safety, and compliance for all marine support services.</p>
             </div>
           </div>
         </div>
 
-        <div class="d-none d-md-block col-md-3 col-lg-2"></div>
+        <div class="d-none d-md-block col-md-3 col-lg-4"></div>
       </div>
     </div>
   </section>
@@ -171,7 +203,7 @@ include "./scripts/head.php";
   </section>
 
   <!-- TESTIMONIALS -->
-  <section class="py-5 bg-white" id="testimonials">
+  <!-- <section class="py-5 bg-white" id="testimonials">
     <div class="container">
       <div class="text-center mb-5">
         <h2 class="section-title">What Our Clients Say</h2>
@@ -207,14 +239,14 @@ include "./scripts/head.php";
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <!-- CALL TO ACTION -->
   <section class="py-5 section-dark text-white text-center">
     <div class="container">
       <h2 class="fw-bold">Ready to Partner with Us?</h2>
       <p class="lead">Contact us today to discover how Phildamm can support your next project.</p>
-      <a href="#contact" class="btn btn-primary mt-3">Get in Touch</a>
+      <a href="mailto:info@phildammsolutions.com" class="btn btn-primary mt-3">Get in Touch</a>
     </div>
   </section>
 

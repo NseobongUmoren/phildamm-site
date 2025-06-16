@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6 mb-4">
-        <h5 class="fw-bold">Phildamm Integrated Solutions</h5>
+        <h5 class="fw-bold">Phildamm Integrated Solutions Limited</h5>
         <p class="text-white">Since 2013, we've provided world-class support in safety, logistics, and industry
           training.</p>
       </div>
