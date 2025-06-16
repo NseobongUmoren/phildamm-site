@@ -4,10 +4,10 @@ $pageTitle = 'Home';
 $menu = [
   ["title" => "Home", "link" => ""],
   ["title" => "About Us", "link" => "about"],
-  ["title" => "Services", "link" => "services"],
-  ["title" => "Training Courses", "link" => "courses"],
-  ["title" => "Projects/Clients", "link" => "clients"],
-  ["title" => "Contact", "link" => "contact"],
+  // ["title" => "Services", "link" => "services"],
+  // ["title" => "Training Courses", "link" => "courses"],
+  // ["title" => "Projects/Clients", "link" => "clients"],
+  // ["title" => "Contact", "link" => "contact"],
 ]
 ?>
 
