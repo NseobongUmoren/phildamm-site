@@ -127,7 +127,7 @@ include "./scripts/head.php";
                 loading="lazy" alt="Technical Support & Maintenance Services">
             </div>
             <div class="card-body text-center">
-              <h5 class="text-primary"><i data-lucide="car" class="lucide me-2"></i>Technical Support & Maintenance Services</h5>
+              <h5 class="text-primary"><i data-lucide="wrench" class="lucide me-2"></i>Technical Support & Maintenance Services</h5>
               <p>We offer expert technical support for power and gas plant operations, including maintenance and upgrade projects. Our services ensure sustained performance, reduced downtime, and cost-effective plant lifecycle management.</p>
             </div>
           </div>
@@ -141,7 +141,7 @@ include "./scripts/head.php";
                 loading="lazy" alt="Labour Management Services">
             </div>
             <div class="card-body text-center">
-              <h5 class="text-primary"><i data-lucide="car" class="lucide me-2"></i>Labour Management Services</h5>
+              <h5 class="text-primary"><i data-lucide="users-round" class="lucide me-2"></i>Labour Management Services</h5>
               <p>Phildamm provides comprehensive labour management solutions, including workforce planning, deployment, and on-site supervision. We help clients build productive teams while ensuring compliance with local labour laws and safety protocols.</p>
             </div>
           </div>
