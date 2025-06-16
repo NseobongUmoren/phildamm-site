@@ -2,17 +2,17 @@
 <footer class="footer-dark text-white pt-5 pb-4">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 mb-4">
+      <div class="col-md-6 mb-4 pe-md-5">
         <h5 class="fw-bold">Phildamm Integrated Solutions Limited</h5>
-        <p class="text-white">Since 2013, we've provided world-class support in safety, logistics, and industry
+        <p class="text-white pe-md-5">Since 2013, we've provided world-class support in safety, logistics, and industry
           training.</p>
       </div>
       <div class="col-md-3 mb-4">
         <h6 class="fw-bold">Quick Links</h6>
         <ul class="list-unstyled">
-          <li><a href="#services" class="text-white text-decoration-none">Services</a></li>
-          <li><a href="#about" class="text-white text-decoration-none">About</a></li>
-          <li><a href="#contact" class="text-white text-decoration-none">Contact</a></li>
+          <!-- <li><a href="#services" class="text-white text-decoration-none">Services</a></li> -->
+          <li><a href="/about" class="text-white text-decoration-none">About</a></li>
+          <li><a href="mailto:info@phildammsolutions.com" class="text-white text-decoration-none">Contact</a></li>
         </ul>
       </div>
       <div class="col-md-3 mb-4">

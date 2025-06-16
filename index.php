@@ -190,13 +190,10 @@ include "./scripts/head.php";
       <div class="row align-items-center">
         <div class="col-md-6">
           <h2 class="section-title">About Phildamm</h2>
-          <p class="section-subtitle">Phildamm Integrated Solutions Limited is a trusted provider of oil and gas support
-            services in Nigeria. Since 2013, we have focused on building a reputation for professionalism, safety, and
-            operational excellence. We are committed to empowering workforces, ensuring compliance, and driving industry
-            best practices across upstream and downstream operations.</p>
+          <p class="section-subtitle">Phildamm Integrated Solutions Limited is a trusted provider of oil and gas support services in Nigeria. Since 2013, we have focused on building a reputation for professionalism, safety, and operational excellence. We are committed to empowering workforces, ensuring compliance, and driving industry best practices across upstream and downstream operations.</p>
         </div>
         <div class="col-md-6 text-center">
-          <img src="/images/phil_bg_1.jpg" class="img-fluid rounded shadow" alt="About Phildamm">
+          <img src="/images/about-us.jpg" class="img-fluid rounded shadow" alt="About Phildamm">
         </div>
       </div>
     </div>

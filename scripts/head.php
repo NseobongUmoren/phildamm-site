@@ -1,6 +1,6 @@
 <?php
+$pageTitle = $pageTitle ?? 'Home';
 $title = $title ?? "Phildamm Integrated Solutions Limited | Training, Safety, Logistics";
-$pageTitle = 'Home';
 $menu = [
   ["title" => "Home", "link" => ""],
   ["title" => "About Us", "link" => "about"],

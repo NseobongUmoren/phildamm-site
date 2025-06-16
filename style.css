@@ -242,15 +242,20 @@ nav a:hover {
 }
 
 /* ===== Hero Section Styling ===== */
-.hero {
+.hero, .about-hero {
   position: relative;
   height: 100vh;
-  background: url('./images/oil_and_gas_bg4.jpg') center center / cover no-repeat;
+  background: url('/images/oil_and_gas_bg4.jpg') center center / cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
   color: white;
   font-family: 'Montserrat', sans-serif;
+}
+
+.about-hero {
+  height: 50vh;
+  background: url('/images/about-us.jpg') center center / cover no-repeat;
 }
 
 .hero .overlay {
@@ -417,4 +422,37 @@ nav a:hover {
 
 .object-position-top-center {
   object-position: top center;
+}
+
+.summary-box:hover,
+.service-card:hover {
+  background-color: #f0f8ff;
+  transition: 0.3s ease;
+}
+
+.list-unstyled li::before {
+  content: "\2022";
+  color: var(--secondary-color);
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+
+.footer-dark .list-unstyled a:hover {
+  text-decoration: underline !important;
+  color: var(--secondary-color) !important;
+}
+
+.member-img {
+  width: 150px;
+  height: 150px;
+}
+
+.text-primary {
+  color: var(--primary-color) !important;
+}
+
+.text-secondary {
+  color: var(--secondary-color) !important;
 }
