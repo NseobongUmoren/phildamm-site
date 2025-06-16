@@ -72,7 +72,7 @@ include "./scripts/head.php";
           <div class="card h-100 shadow-sm border-0">
             <div class="services-img">
               <img src="/images/certified-training.jpg" class="card-img-top w-100 h-100 object-fit-cover"
-                alt="Training & Consultancy">
+                alt="Training & Consultancy" loading="lazy">
             </div>
             <div class="card-body text-center">
               <h5 class="text-primary"><i data-lucide="graduation-cap" class="lucide me-2"></i>Training & Consultancy
@@ -89,7 +89,7 @@ include "./scripts/head.php";
             <div class="services-img">
               <img src="/images/ppe-supply.jpg"
                 class="card-img-top w-100 h-100 object-position-top-center object-fit-cover"
-                alt="Safety Equipment Supply">
+                loading="lazy" alt="Safety Equipment Supply">
             </div>
             <div class="card-body text-center">
               <h5 class="text-primary"><i data-lucide="shield-check" class="lucide me-2"></i>Safety Equipment Supply
@@ -106,7 +106,7 @@ include "./scripts/head.php";
             <div class="services-img">
               <img src="/images/equipment-inspection.jpg"
                 class="card-img-top w-100 h-100 object-position-top-center object-fit-cover"
-                alt="Equipment Inspection Services">
+                loading="lazy" alt="Equipment Inspection Services">
             </div>
             <div class="card-body text-center">
               <h5 class="text-primary"><i data-lucide="search-check" class="lucide me-2"></i>Equipment Inspection & Certification
@@ -124,7 +124,7 @@ include "./scripts/head.php";
           <div class="card h-100 shadow-sm border-0">
             <div class="services-img">
               <img src="/images/technical-services.jpg" class="card-img-top w-100 h-100 object-fit-cover"
-                alt="Technical Support & Maintenance Services">
+                loading="lazy" alt="Technical Support & Maintenance Services">
             </div>
             <div class="card-body text-center">
               <h5 class="text-primary"><i data-lucide="car" class="lucide me-2"></i>Technical Support & Maintenance Services</h5>
@@ -138,7 +138,7 @@ include "./scripts/head.php";
           <div class="card h-100 shadow-sm border-0">
             <div class="services-img">
               <img src="/images/labour-management.jpg" class="card-img-top w-100 h-100 object-fit-cover"
-                alt="Labour Management Services">
+                loading="lazy" alt="Labour Management Services">
             </div>
             <div class="card-body text-center">
               <h5 class="text-primary"><i data-lucide="car" class="lucide me-2"></i>Labour Management Services</h5>
@@ -152,7 +152,7 @@ include "./scripts/head.php";
           <div class="card h-100 shadow-sm border-0">
             <div class="services-img">
               <img src="/images/car-leasing.jpg" class="card-img-top w-100 h-100 object-fit-cover"
-                alt="Car Leasing Services">
+                loading="lazy" alt="Car Leasing Services">
             </div>
             <div class="card-body text-center">
               <h5 class="text-primary"><i data-lucide="car" class="lucide me-2"></i>Car Leasing Services</h5>
@@ -169,7 +169,7 @@ include "./scripts/head.php";
           <div class="card h-100 shadow-sm border-0">
             <div class="services-img">
               <img src="/images/vessel-charter.jpg"
-                class="card-img-top w-100 h-100 object-position-top-center object-fit-cover" alt="Vessel Chartering">
+                class="card-img-top w-100 h-100 object-position-top-center object-fit-cover" loading="lazy" alt="Vessel Chartering">
             </div>
             <div class="card-body text-center">
               <h5 class="text-primary"><i data-lucide="ship" class="lucide me-2"></i>Vessel Chartering</h5>
@@ -193,7 +193,7 @@ include "./scripts/head.php";
           <p class="section-subtitle">Phildamm Integrated Solutions Limited is a trusted provider of oil and gas support services in Nigeria. Since 2013, we have focused on building a reputation for professionalism, safety, and operational excellence. We are committed to empowering workforces, ensuring compliance, and driving industry best practices across upstream and downstream operations.</p>
         </div>
         <div class="col-md-6 text-center">
-          <img src="/images/about-us.jpg" class="img-fluid rounded shadow" alt="About Phildamm">
+          <img src="/images/about-us.jpg" class="img-fluid rounded shadow" alt="About Phildamm" loading="lazy">
         </div>
       </div>
     </div>
