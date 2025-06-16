@@ -19,6 +19,7 @@
         <h6 class="fw-bold">Contact Us</h6>
         <p class="text-muted mb-1">Email: info@phildammsolutions.com</p>
         <p class="text-muted">Phone: +234 703 1500 112</p>
+        <p class="text-muted">Address: 20, Market Lane, Rumoumasi, Port Harcourt, Nigeria</p>
       </div>
     </div>
     <div class="text-center mt-3">
