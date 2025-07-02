@@ -11,7 +11,8 @@
         <h6 class="fw-bold">Quick Links</h6>
         <ul class="list-unstyled">
           <!-- <li><a href="#services" class="text-white text-decoration-none">Services</a></li> -->
-          <li><a href="/about" class="text-white text-decoration-none">About</a></li>
+          <li><a href="/about" class="text-white text-decoration-none">About Us</a></li>
+          <li><a href="/courses" class="text-white text-decoration-none">Training Courses</a></li>
           <li><a href="mailto:info@phildammsolutions.com" class="text-white text-decoration-none">Contact</a></li>
         </ul>
       </div>
