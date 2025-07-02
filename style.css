@@ -242,7 +242,7 @@ nav a:hover {
 }
 
 /* ===== Hero Section Styling ===== */
-.hero, .about-hero {
+.hero, .about-hero, .courses-hero {
   position: relative;
   height: 100vh;
   background: url('/images/oil_and_gas_bg4.jpg') center center / cover no-repeat;
@@ -256,6 +256,11 @@ nav a:hover {
 .about-hero {
   height: 50vh;
   background: url('/images/about-us.jpg') center center / cover no-repeat;
+}
+
+.courses-hero {
+  height: 50vh;
+  background: url('/images/certified-training.jpg') center center / cover no-repeat;
 }
 
 .hero .overlay {
@@ -428,6 +433,10 @@ nav a:hover {
 .service-card:hover {
   background-color: #f0f8ff;
   transition: 0.3s ease;
+}
+
+.list-unstyled {
+  margin-left: 1em;
 }
 
 .list-unstyled li::before {
